@@ -5,6 +5,15 @@
 I am a third-year student at Cairo University.
 
 You can reach out on: mennatallahahmed892@gmail.com
+
+Follow me on LinkedIn:
+<p align="center">
+    <a href="https://www.linkedin.com/in/mennatallah-ahmed-0b0a72277/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+</p>
+
+
 ## Education
 
 Cairo University, Bachelor of Science in Computer Science 
