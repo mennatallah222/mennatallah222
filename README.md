@@ -29,7 +29,9 @@ Expected graduation: 2025
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennatallah222&layout=pie" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennatallah222&layout=pie&cache_seconds=1800" alt="Top Languages" />
+
   </a>
 </p>
+
 
