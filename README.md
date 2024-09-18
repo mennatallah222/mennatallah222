@@ -34,4 +34,7 @@ Expected graduation: 2025
   </a>
 </p>
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=mennatallah222&color=grey&style=flat-square" alt="Profile Views"/>
+</div>
 
