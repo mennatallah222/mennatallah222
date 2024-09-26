@@ -38,8 +38,8 @@ Expected graduation: 2025
 
 <p align="center">
   <a href="https://github.com/mennatallah222/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennatallah222&layout=donut&cache_seconds=5&theme=dark" style="max-width: 100%; height: 250px;" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mennatallah222&show_icons=true&cache_seconds=5&theme=dark" style="max-width: 100%; height: 250px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennatallah222&layout=donut&cache_seconds=5&theme=dark" style="max-width: 100%; height: 200px;" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mennatallah222&show_icons=true&cache_seconds=5&theme=dark" style="max-width: 100%; height: 200px;" />
   </a>
 </p>
 
