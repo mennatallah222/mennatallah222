@@ -24,13 +24,13 @@ Expected graduation: 2025
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb&theme=dark&perline=11" alt="Database Skills" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb,postgres&theme=dark&perline=11" alt="Database Skills" />
        <br/>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,sass,react,materialui&theme=dark&perline=11" alt="Frontend Skills" />
        <br/>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,spring,cs,dotnet,nodejs&theme=dark&perline=11" alt="Programming Languages" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,spring,cs,dotnet,nodejs,go,php&theme=dark&perline=11" alt="Programming Languages" />
        <br/>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,redhat,linux,ps,postman,xd,docker&theme=dark&perline=11" alt="Tools and Platforms" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,redhat,linux,ps,postman,xd,docker,sklearn&theme=dark&perline=11" alt="Tools and Platforms" />
   </a>
 </p>
 
