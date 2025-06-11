@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey 👋
 I am a fourth-year student at Cairo University.
 
 💬 Feel free to reach out: mennatallahahmed892@gmail.com
@@ -11,10 +11,7 @@ I am a fourth-year student at Cairo University.
 </p>
 
 
-## 🎓 Education
-
-Cairo University, Bachelor of Science in Computer Science
-
+---        
 Expected graduation: 2025
 
 ## 🛠️ Tools
@@ -73,7 +70,7 @@ Expected graduation: 2025
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Stats
 
 <p align="center">
   <a href="https://github.com/mennatallah222/github-readme-stats">
